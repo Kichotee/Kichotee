@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kichotee
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning python
+- 👀 I’m interested in product management and web development
+- 🌱 I’m currently learning Vue 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
