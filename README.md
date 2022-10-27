@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Kichotee
+- 👋 Hi, I’m Timi,  @Kichotee
 - 👀 I’m interested in product management and web development
 - 🌱 I’m currently learning Vue 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on products that require a digital user interface
 
 <!---
 Kichotee/Kichotee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
